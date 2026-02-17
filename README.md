@@ -51,7 +51,10 @@
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ItaloNicacioDev&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloNicacioDev&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170em" src="https://streak-stats.demolab.com?user=ItaloNicacioDev&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
