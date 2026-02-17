@@ -50,12 +50,12 @@
 ## 📊 Métricas Estratégicas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=radical&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ItaloNicacioDev&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloNicacioDev&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloNicacioDev&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -82,8 +82,8 @@
 
 ## 📬 Contato
 
-📧 Email: seuemail@email.com  
-💼 LinkedIn: https://linkedin.com/in/seulink  
+📧 Email: eufrasio.nicacio@gmail.com 
+💼 LinkedIn: https://linkedin.com/in/Italo Nicacio 
 
 ---
 
