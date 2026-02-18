@@ -2,8 +2,6 @@
 
 <h1 align="center">⚡ Italo Nicacio</h1>
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/ItaloNicacioDev-Perfil%20Oficial-000000?style=for-the-badge&logo=github" />
 </p>
@@ -23,15 +21,13 @@
 
 Programo desde os 16 anos (início com Small Basic).
 
-Hoje atuo como Desenvolvedor Full Stack Pleno com foco em:
+Hoje atuo como **Desenvolvedor Full Stack Pleno** com foco em:
 
 • Construção de SaaS  
 • Arquitetura escalável  
 • Backend estruturado  
 • Mentalidade de produto  
 • Marca pessoal tech  
-
----
 
 ---
 
@@ -43,15 +39,11 @@ Hoje atuo como Desenvolvedor Full Stack Pleno com foco em:
   <img src="https://skillicons.dev/icons?i=dotnet,django,python,cs" height="60"/>
 </p>
 
----
-
 ## 🎨 Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css" height="60"/>
 </p>
-
----
 
 ## 🗄 Banco de Dados
 
@@ -60,7 +52,6 @@ Hoje atuo como Desenvolvedor Full Stack Pleno com foco em:
 </p>
 
 ---
-
 
 # 📊 Estatísticas GitHub
 
@@ -77,7 +68,9 @@ Hoje atuo como Desenvolvedor Full Stack Pleno com foco em:
 # 📊 Análises Técnicas (Interativo)
 
 <details>
-<summary>🧠 Análise de Perfil Técnico</summary>
+<summary><b>🧠 Análise de Perfil Técnico</b></summary>
+
+<br>
 
 • Forte base lógica (início precoce na programação)  
 • Evolução orientada à arquitetura  
@@ -89,7 +82,9 @@ Hoje atuo como Desenvolvedor Full Stack Pleno com foco em:
 ---
 
 <details>
-<summary>🚀 Análise de Potencial SaaS</summary>
+<summary><b>🚀 Análise de Potencial SaaS</b></summary>
+
+<br>
 
 • Mentalidade voltada à construção de ativos digitais  
 • Foco em escalabilidade  
@@ -101,7 +96,9 @@ Hoje atuo como Desenvolvedor Full Stack Pleno com foco em:
 ---
 
 <details>
-<summary>📈 Próximo Nível Estratégico</summary>
+<summary><b>📈 Próximo Nível Estratégico</b></summary>
+
+<br>
 
 Para evoluir de Pleno → Sênior / Founder:
 
@@ -135,5 +132,5 @@ Produto é impacto.
 ---
 
 <p align="center">
-⚡ Dev em evolução constante para Founder Tech.
+<b>⚡ Dev em evolução constante para Founder Tech.</b>
 </p>
