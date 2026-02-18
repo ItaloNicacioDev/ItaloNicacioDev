@@ -58,13 +58,12 @@ Hoje atuo como **Desenvolvedor Full Stack Pleno** com foco em:
 # 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ItaloNicacioDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ItaloNicacioDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloNicacioDev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloNicacioDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
-
 
 ---
 
