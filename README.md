@@ -1,86 +1,104 @@
-# ⚡ ITALO NICACIO
+<h1 align="center">⚡ Italo Nicacio</h1>
+<h3 align="center">Desenvolvedor Full Stack Pleno • SaaS Builder • Criador Tech</h3>
 
-### Desenvolvedor Full Stack Pleno • Criador Tech • Construtor de Sistemas
-
----
-
-## 👨‍💻 Sobre
-
-Programo desde os 16 anos, quando tive meu primeiro contato com desenvolvimento através do Small Basic.
-
-Hoje atuo como Desenvolvedor Full Stack Pleno, com foco em:
-
-• Arquitetura limpa  
-• Backend estruturado  
-• Sistemas escaláveis  
-• Performance e organização  
-• Construção de produtos digitais  
-
-Meu objetivo não é apenas escrever código —  
-é construir sistemas bem pensados, sustentáveis e evolutivos.
+<p align="center">
+  <b>Construindo produtos. Construindo sistemas. Construindo marca.</b>
+</p>
 
 ---
 
-## 🏗 Stack Principal
+# 👨‍💻 Sobre
 
-### Backend
-- .NET  
-- Django  
-- APIs REST  
-- Arquitetura em camadas  
+Programo desde os 16 anos (início com Small Basic).
 
-### Frontend
-- React  
-- JavaScript  
-- HTML5  
-- CSS3  
+Hoje atuo como Desenvolvedor Full Stack Pleno com foco em:
 
-### Banco de Dados
-- SQL  
-- Modelagem relacional  
-- Estruturação otimizada  
+🚀 Construção de SaaS  
+⚙️ Arquitetura escalável  
+🧠 Backend estruturado  
+📈 Mentalidade de produto  
+🔥 Crescimento como marca tech  
+
+Não construo apenas aplicações.  
+Construo produtos pensados para escalar.
 
 ---
 
-## 🧠 Mentalidade Técnica
+# 🏗 Stack Principal
 
-✔ Pensamento estruturado  
-✔ Código limpo e sustentável  
-✔ Organização antes de complexidade  
-✔ Evolução contínua  
-✔ Visão de produto  
-✔ Construção de autoridade tech  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="70"/>
+  <img src="https://skillicons.dev/icons?i=django" height="70"/>
+  <img src="https://skillicons.dev/icons?i=react" height="70"/>
+</p>
+
+### 🔥 Frameworks Estratégicos
+
+- **.NET** → APIs robustas e arquitetura enterprise  
+- **Django** → Backend rápido e seguro  
+- **React** → Interfaces modernas e reativas  
 
 ---
 
-## 🎥 Criador de Conteúdo
+# 💻 Linguagens
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="55"/>
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
+  <img src="https://skillicons.dev/icons?i=js" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html" height="55"/>
+  <img src="https://skillicons.dev/icons?i=css" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+</p>
+
+---
+
+# 🚀 Empreendedor SaaS
+
+🎯 Foco em criação de produtos digitais próprios  
+📊 Desenvolvimento orientado a métricas  
+🔁 Iteração contínua  
+💡 Mentalidade de longo prazo  
+
+Objetivo: transformar código em ativo digital escalável.
+
+---
+
+# 🎥 Criador Tech
 
 Compartilho sobre:
 
-• Programação e arquitetura  
-• Carreira e evolução na área tech  
-• Ferramentas e produtividade  
-• Construção de marca pessoal para devs  
+• Arquitetura e boas práticas  
+• Construção de SaaS  
+• Evolução profissional  
+• Produtividade e ferramentas  
 
-A proposta é mostrar evolução real — não apenas o resultado final.
-
----
-
-## 🚀 Foco Atual
-
-- Evolução para arquitetura avançada  
-- Construção de SaaS próprio  
-- Projetos open-source estratégicos  
-- Consolidação como referência tech  
+Marca pessoal construída com base técnica real.
 
 ---
 
-## 💬 Filosofia
+# 🧠 Mentalidade
 
-Código escala.  
-Arquitetura sustenta.  
-Disciplina diferencia.
+✔ Código sustentável  
+✔ Produto antes de hype  
+✔ Escalabilidade desde o início  
+✔ Evolução constante  
+✔ Disciplina técnica  
 
 ---
 
-⚡ Construindo código. Construindo sistemas. Construindo influência.
+# 💬 Manifesto
+
+Não busco apenas escrever código.  
+Busco construir sistemas que geram valor.
+
+Código é ferramenta.  
+Arquitetura é estratégia.  
+Produto é impacto.
+
+---
+
+<p align="center">
+⚡ Dev em evolução constante para Founder Tech.
+</p>
