@@ -55,7 +55,6 @@ Hoje atuo como **Desenvolvedor Full Stack Pleno** com foco em:
 ---
 
 
-
 # 📊 Estatísticas GitHub
 
 <p align="center">
