@@ -48,7 +48,8 @@ Hoje atuo como **Desenvolvedor Full Stack Pleno** com foco em:
 ## 🗄 Banco de Dados
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,azure" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mssql" height="60"/>
 </p>
 
 ---
@@ -57,6 +58,10 @@ Hoje atuo como **Desenvolvedor Full Stack Pleno** com foco em:
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ItaloNicacioDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=ItaloNicacioDev&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
