@@ -54,6 +54,8 @@ Hoje atuo como **Desenvolvedor Full Stack Pleno** com foco em:
 
 ---
 
+
+
 # 📊 Estatísticas GitHub
 
 <p align="center">
@@ -64,11 +66,6 @@ Hoje atuo como **Desenvolvedor Full Stack Pleno** com foco em:
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloNicacioDev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloNicacioDev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
