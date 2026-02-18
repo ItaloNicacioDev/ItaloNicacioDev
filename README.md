@@ -1,4 +1,4 @@
-<<!-- ===================== TOPO IMPACTO ===================== -->
+<!-- ===================== HEADER ===================== -->
 
 <h1 align="center">⚡ Italo Nicacio</h1>
 
@@ -15,70 +15,76 @@
     <img src="https://img.shields.io/badge/LinkedIn-Italo%20Nicacio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:eufrasio.nicacio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato%20Direto-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-eufrasio.nicacio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <b>Dev • Empreendedor SaaS • Marca Tech em Construção</b>
-</p>
-
 ---
+
 # 👨‍💻 Sobre
 
 Programo desde os 16 anos (início com Small Basic).
 
 Hoje atuo como Desenvolvedor Full Stack Pleno com foco em:
 
-🚀 Construção de SaaS  
-⚙️ Arquitetura escalável  
-🧠 Backend estruturado  
-📈 Mentalidade de produto  
-🔥 Crescimento como marca tech  
-
-Não construo apenas aplicações.  
-Construo produtos pensados para escalar.
+• Construção de SaaS  
+• Arquitetura escalável  
+• Backend estruturado  
+• Mentalidade de produto  
+• Marca pessoal tech  
 
 ---
 
 # 🏗 Stack Principal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="70"/>
-  <img src="https://skillicons.dev/icons?i=django" height="70"/>
-  <img src="https://skillicons.dev/icons?i=react" height="70"/>
-</p>
+## Backend
+.NET • Django • APIs REST • Arquitetura em Camadas
 
-### 🔥 Frameworks Estratégicos
+## Frontend
+React • JavaScript • HTML • CSS
 
-- **.NET** → APIs robustas e arquitetura enterprise  
-- **Django** → Backend rápido e seguro  
-- **React** → Interfaces modernas e reativas  
+## Banco de Dados
+SQL • Modelagem Relacional • Estruturação otimizada
 
 ---
 
-# 💻 Linguagens
+# 📊 Análises Técnicas (Interativo)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="55"/>
-  <img src="https://skillicons.dev/icons?i=java" height="55"/>
-  <img src="https://skillicons.dev/icons?i=js" height="55"/>
-  <img src="https://skillicons.dev/icons?i=html" height="55"/>
-  <img src="https://skillicons.dev/icons?i=css" height="55"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-</p>
+<details>
+<summary>🧠 Análise de Perfil Técnico</summary>
+
+• Forte base lógica (início precoce na programação)  
+• Evolução orientada à arquitetura  
+• Perfil híbrido: técnico + visão de produto  
+• Potencial natural para liderança técnica futura  
+
+</details>
 
 ---
 
-# 🚀 Empreendedor SaaS
+<details>
+<summary>🚀 Análise de Potencial SaaS</summary>
 
-🎯 Foco em criação de produtos digitais próprios  
-📊 Desenvolvimento orientado a métricas  
-🔁 Iteração contínua  
-💡 Mentalidade de longo prazo  
+• Mentalidade voltada à construção de ativos digitais  
+• Foco em escalabilidade  
+• Interesse em arquitetura avançada  
+• Tendência a evoluir para Founder Tech  
 
-Objetivo: transformar código em ativo digital escalável.
+</details>
+
+---
+
+<details>
+<summary>📈 Próximo Nível Estratégico</summary>
+
+Para evoluir de Pleno → Sênior / Founder:
+
+✔ Projetos próprios com usuários reais  
+✔ Documentação pública de arquitetura  
+✔ Consolidação como criador técnico  
+✔ Especialização forte em um core (ex: backend escalável)  
+
+</details>
 
 ---
 
@@ -86,29 +92,15 @@ Objetivo: transformar código em ativo digital escalável.
 
 Compartilho sobre:
 
-• Arquitetura e boas práticas  
+• Arquitetura  
+• Carreira dev  
+• Ferramentas  
 • Construção de SaaS  
-• Evolução profissional  
-• Produtividade e ferramentas  
-
-Marca pessoal construída com base técnica real.
-
----
-
-# 🧠 Mentalidade
-
-✔ Código sustentável  
-✔ Produto antes de hype  
-✔ Escalabilidade desde o início  
-✔ Evolução constante  
-✔ Disciplina técnica  
+• Evolução real na área  
 
 ---
 
 # 💬 Manifesto
-
-Não busco apenas escrever código.  
-Busco construir sistemas que geram valor.
 
 Código é ferramenta.  
 Arquitetura é estratégia.  
