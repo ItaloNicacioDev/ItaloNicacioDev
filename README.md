@@ -1,107 +1,101 @@
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">⚡ Italo Nicacio</h1>
+<h3 align="center">Senior Full Stack Engineer | Systems Architect | SaaS Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Backend+Focused;Architecture+Driven;Building+Scalable+Systems" />
-</p>
-
-<p align="center">
-🚀 Construindo sistemas escaláveis • Código limpo • Performance real
-</p>
-
----
-
-## 🧠 Sobre Mim
-
-Desenvolvedor Full Stack com foco principal em **Backend e Arquitetura de Sistemas**.
-
-Construo soluções pensadas para:
-
-- Escalabilidade  
-- Performance  
-- Organização  
-- Manutenção de longo prazo  
-
-Ativo desde 2021, evoluindo constantemente.
-
----
-
-# 🚀 Tech Stack (Destaque Visual)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,html,git,windows&theme=dark" />
-</p>
-
----
-
-## ⚔️ Linguagens em Destaque
-
-<p align="center">
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-</p>
-
----
-
-## 🏆 Autoridade Técnica
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-High_Performance-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-Clean_Code-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Scalability-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Problem_Solver-red?style=for-the-badge" />
-</p>
-
----
-
-## 📊 Perfil de Desenvolvedor
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItaloNicacioDev&style=for-the-badge&color=blue" />
-</p>
-
-- 🔥 +200 contribuições públicas  
-- 📅 Ativo desde 2021  
-- 🧠 Especialização em Backend  
-- ⚙️ Experiência com APIs REST  
-- 🗄️ Modelagem e otimização de banco de dados  
-
----
-
-## 🎯 Mentalidade
-
-✔ Código não é apenas funcional — é arquitetura  
-✔ Performance é padrão  
-✔ Escalabilidade é planejada desde o início  
-✔ Aprendizado contínuo  
-✔ Foco em impacto real  
-
----
-
-## 🚀 Diferencial Competitivo
-
-- Pensamento sistêmico  
-- Organização profissional de projetos  
-- Forte domínio backend  
-- Integração entre tecnologias  
-- Visão técnica + visão de produto  
-
----
-
-## 📬 Contato
-
-<p align="center">
-  <a href="mailto:eufrasio.nicacio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/italo-nicacio">
-    <img src="https://img.shields.io/badge/LinkedIn-Italo_Nicacio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Strategic%20Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ItaloNicacioDev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ItaloNicacioDev?label=Network&style=for-the-badge&color=black" />
 </p>
 
 ---
 
+# 🧠 About
+
+I design and build **high-performance, scalable digital systems**.
+
+My focus is not just writing code —  
+it’s building **architecture that survives scale**.
+
+⚡ Backend Engineering  
+⚡ Scalable APIs  
+⚡ SaaS Infrastructure  
+⚡ High-performance frontends  
+⚡ Clean Architecture & System Design  
+
+---
+
+# 🏗 Core Architecture Stack
+
 <p align="center">
-🔥 <b>Não escrevo apenas código. Construo arquitetura.</b>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="75"/>
+  <img src="https://skillicons.dev/icons?i=django" height="75"/>
+  <img src="https://skillicons.dev/icons?i=react" height="75"/>
+</p>
+
+### 🔥 Primary Frameworks
+
+- 🟣 **.NET** — Enterprise APIs & Microservices
+- 🟢 **Django** — Rapid & Secure Backend Systems
+- 🔵 **React** — Modern, Reactive UI Architecture
+
+---
+
+# 💻 Engineering Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="60"/>
+  <img src="https://skillicons.dev/icons?i=java" height="60"/>
+  <img src="https://skillicons.dev/icons?i=js" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html" height="60"/>
+  <img src="https://skillicons.dev/icons?i=css" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+</p>
+
+---
+
+# 🧩 Engineering Principles
+
+✔ Scalable System Design  
+✔ Clean Code & Maintainability  
+✔ Performance First  
+✔ Security by Default  
+✔ Product-Oriented Development  
+✔ Automation & Optimization  
+
+---
+
+# 📊 GitHub Intelligence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItaloNicacioDev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloNicacioDev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- Building scalable SaaS platforms
+- Advanced system architecture
+- Performance optimization
+- Open-source authority projects
+- International tech positioning
+
+---
+
+# 🌍 Vision
+
+> Code scales.  
+> Architecture endures.  
+> Influence multiplies.
+
+---
+
+<p align="center">
+  ⚡ Building at global standards.
 </p>
