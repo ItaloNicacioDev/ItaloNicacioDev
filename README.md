@@ -1,11 +1,45 @@
 <h1 align="center">⚡ Italo Nicacio</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Backend+Architect+Mindset;Performance+Driven+Developer;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Backend+Focused;Architecture+Driven;Building+Scalable+Systems" />
 </p>
 
 <p align="center">
 🚀 Construindo sistemas escaláveis • Código limpo • Performance real
+</p>
+
+---
+
+## 🧠 Sobre Mim
+
+Desenvolvedor Full Stack com foco principal em **Backend e Arquitetura de Sistemas**.
+
+Construo soluções pensadas para:
+
+- Escalabilidade  
+- Performance  
+- Organização  
+- Manutenção de longo prazo  
+
+Ativo desde 2021, evoluindo constantemente.
+
+---
+
+# 🚀 Tech Stack (Destaque Visual)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,html,git,windows&theme=dark" />
+</p>
+
+---
+
+## ⚔️ Linguagens em Destaque
+
+<p align="center">
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 </p>
 
 ---
@@ -21,43 +55,17 @@
 
 ---
 
-## ⚔️ Stack Principal
-
-### 🔥 Backend Core
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
-### 🌐 Web
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
-
-### 🛠️ Ecossistema
-<p align="center">
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
-
----
-
-## 📊 Métricas Estratégicas
+## 📊 Perfil de Desenvolvedor
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ItaloNicacioDev&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img src="https://komarev.com/ghpvc/?username=ItaloNicacioDev&style=for-the-badge&color=blue" />
 </p>
 
-<p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=ItaloNicacioDev&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloNicacioDev&layout=compact&theme=radical&hide_border=true"/>
-</p>
+- 🔥 +200 contribuições públicas  
+- 📅 Ativo desde 2021  
+- 🧠 Especialização em Backend  
+- ⚙️ Experiência com APIs REST  
+- 🗄️ Modelagem e otimização de banco de dados  
 
 ---
 
@@ -77,14 +85,20 @@
 - Organização profissional de projetos  
 - Forte domínio backend  
 - Integração entre tecnologias  
-- Visão de produto + visão técnica  
+- Visão técnica + visão de produto  
 
 ---
 
 ## 📬 Contato
 
-📧 **Email:** eufrasio.nicacio@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/italonicacio  
+<p align="center">
+  <a href="mailto:eufrasio.nicacio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/italo-nicacio">
+    <img src="https://img.shields.io/badge/LinkedIn-Italo_Nicacio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
