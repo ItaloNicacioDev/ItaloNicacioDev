@@ -33,16 +33,44 @@ Hoje atuo como Desenvolvedor Full Stack Pleno com foco em:
 
 ---
 
+---
+
 # 🏗 Stack Principal
 
-## Backend
-.NET • Django • APIs REST • Arquitetura em Camadas
+## 🚀 Backend
 
-## Frontend
-React • JavaScript • HTML • CSS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,django,python,cs" height="60"/>
+</p>
 
-## Banco de Dados
-SQL • Modelagem Relacional • Estruturação otimizada
+---
+
+## 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" height="60"/>
+</p>
+
+---
+
+## 🗄 Banco de Dados
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+</p>
+
+---
+
+
+# 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ItaloNicacioDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloNicacioDev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
