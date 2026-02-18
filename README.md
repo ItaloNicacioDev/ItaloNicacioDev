@@ -1,34 +1,32 @@
-<!-- ========================= HEADER ========================= -->
-
 <h1 align="center">⚡ Italo Nicacio</h1>
-<h3 align="center">Senior Full Stack Engineer | Systems Architect | SaaS Builder</h3>
+<h3 align="center">Desenvolvedor Full Stack Pleno | Criador Tech | Construtor de Sistemas</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/italo-nicacio">
-    <img src="https://img.shields.io/badge/LinkedIn-Strategic%20Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ItaloNicacioDev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/ItaloNicacioDev?label=Network&style=for-the-badge&color=black" />
+  <img src="https://komarev.com/ghpvc/?username=ItaloNicacioDev&label=Visualizações&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-# 🧠 About
+# 👨‍💻 Sobre Mim
 
-I design and build **high-performance, scalable digital systems**.
+Comecei a programar aos 16 anos, tendo meu primeiro contato com desenvolvimento através do **Small Basic**.
 
-My focus is not just writing code —  
-it’s building **architecture that survives scale**.
+Hoje atuo como Desenvolvedor Full Stack Pleno, focado em:
 
-⚡ Backend Engineering  
-⚡ Scalable APIs  
-⚡ SaaS Infrastructure  
-⚡ High-performance frontends  
-⚡ Clean Architecture & System Design  
+⚡ Arquitetura limpa  
+⚡ Sistemas escaláveis  
+⚡ Backend estruturado  
+⚡ Performance e organização  
+⚡ Construção de produtos digitais  
+
+Mais do que escrever código, meu objetivo é **construir sistemas bem pensados e sustentáveis**.
 
 ---
 
-# 🏗 Core Architecture Stack
+# 🏗 Stack Principal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" height="75"/>
@@ -36,15 +34,15 @@ it’s building **architecture that survives scale**.
   <img src="https://skillicons.dev/icons?i=react" height="75"/>
 </p>
 
-### 🔥 Primary Frameworks
+### 🔥 Frameworks de Destaque
 
-- 🟣 **.NET** — Enterprise APIs & Microservices
-- 🟢 **Django** — Rapid & Secure Backend Systems
-- 🔵 **React** — Modern, Reactive UI Architecture
+- 🟣 **.NET** → APIs robustas e aplicações enterprise  
+- 🟢 **Django** → Backend rápido, seguro e produtivo  
+- 🔵 **React** → Interfaces modernas e dinâmicas  
 
 ---
 
-# 💻 Engineering Languages
+# 💻 Linguagens
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60"/>
@@ -58,18 +56,31 @@ it’s building **architecture that survives scale**.
 
 ---
 
-# 🧩 Engineering Principles
+# 🎥 Criador de Conteúdo Tech
 
-✔ Scalable System Design  
-✔ Clean Code & Maintainability  
-✔ Performance First  
-✔ Security by Default  
-✔ Product-Oriented Development  
-✔ Automation & Optimization  
+Compartilho conhecimento sobre:
+
+🧠 Programação e arquitetura  
+🚀 Carreira dev  
+⚙️ Ferramentas e produtividade  
+📱 Desenvolvimento mobile e web  
+📊 Estratégia e mentalidade técnica  
+
+Meu objetivo é crescer como referência tech, mostrando evolução real — não só resultado final.
 
 ---
 
-# 📊 GitHub Intelligence
+# 🧩 Mentalidade
+
+✔ Pensamento estruturado  
+✔ Evolução contínua  
+✔ Código limpo e sustentável  
+✔ Visão de produto  
+✔ Construção de marca pessoal tech  
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItaloNicacioDev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -78,24 +89,15 @@ it’s building **architecture that survives scale**.
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Foco Atual
 
-- Building scalable SaaS platforms
-- Advanced system architecture
-- Performance optimization
-- Open-source authority projects
-- International tech positioning
-
----
-
-# 🌍 Vision
-
-> Code scales.  
-> Architecture endures.  
-> Influence multiplies.
+- Evolução para arquitetura avançada  
+- Construção de SaaS próprio  
+- Expansão como criador tech  
+- Projetos open-source estratégicos  
 
 ---
 
 <p align="center">
-  ⚡ Building at global standards.
+  ⚡ Construindo código. Construindo sistemas. Construindo influência.
 </p>
