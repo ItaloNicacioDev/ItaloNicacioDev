@@ -58,8 +58,8 @@ Programo desde os 16 anos, tendo meus primeiros contatos com a lógica através 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItaloNicacioDev&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="Estatísticas do GitHub de Italo" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloNicacioDev&layout=compact&theme=tokyonight&hide_border=false" alt="Linguagens Mais Usadas" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloNicacioDev&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItaloNicacioDev&theme=tokyonight" alt="Linguagens Mais Usadas" height="180" />
 </div>
 
 ---
