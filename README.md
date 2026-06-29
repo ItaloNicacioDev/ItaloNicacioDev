@@ -1,117 +1,88 @@
-<!-- ===================== HEADER ===================== -->
+Hi there, I'm Italo Nicacio 👋
 
-<div align="center">
-  <h1>⚡ Italo Nicacio</h1>
-  <p><b>Desenvolvedor Full Stack Pleno | Software Architecture | SaaS Builder</b></p>
+<div align="center">Full Stack Developer • Backend • Software Architecture
 
-  <!-- Badges de Contato e Perfil -->
-  <a href="https://github.com/ItaloNicacioDev">
-    <img src="https://img.shields.io/badge/GitHub-Perfil%20Oficial-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/italo-nicacio" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Italo%20Nicacio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:eufrasio.nicacio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eufrasio.nicacio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+Building scalable applications with a focus on clean architecture, backend development and SaaS products.
 
----
+""GitHub" (https://img.shields.io/badge/GitHub-ItaloNicacioDev-181717?style=for-the-badge&logo=github)" (https://github.com/ItaloNicacioDev)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Italo%20Nicacio-0A66C2?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/italo-nicacio)
+""Email" (https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:eufrasio.nicacio@gmail.com)
 
-## 👨‍💻 Sobre Mim
+</div>---
 
-Programo desde os 16 anos, tendo meus primeiros contatos com a lógica através do *Small Basic*. Hoje, atuo como **Desenvolvedor Full Stack Pleno**, unindo uma forte bagagem técnica com visão de negócios.
+About
 
-### 🎯 Meus Focos Atuais:
-* 🛠 **Construção de SaaS:** Desenvolvimento de produtos digitais escaláveis e eficientes.
-* 🏗 **Arquitetura de Software:** Criação de sistemas robustos, limpos e de fácil manutenção.
-* 🚀 **Mentalidade de Produto:** Alinhando código de excelência com objetivos de negócio (Product & Tech).
-* ✍ **Marca Pessoal:** Compartilhando conhecimento e evoluindo publicamente.
+I'm a Full Stack Developer focused on backend development, software architecture and scalable systems.
+
+I started programming at 16 with Small Basic and today I work mainly with .NET, Python and modern web technologies, building applications with maintainability and performance in mind.
+
+Current interests
+
+- Backend Engineering
+- Software Architecture
+- SaaS Development
+- APIs
+- Cloud
+- Dev Productivity
 
 ---
 
-## 🏗 Hard Skills & Stack Principal
+Tech Stack
 
-### 🚀 Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django" alt="Backend Stack" />
-  </a>
-</p>
+Languages
 
-### 🎨 Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css" alt="Frontend Stack" />
-  </a>
-</p>
+<p>
+<img src="https://skillicons.dev/icons?i=cs,python,js,ts"/>
+</p>Backend
 
-### 🗄 Banco de Dados & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-</p>
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,django,nodejs"/>
+</p>Frontend
 
-## 📊 Estatísticas do GitHub
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>Database
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloNicacioDev&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItaloNicacioDev&theme=tokyonight" alt="Linguagens Mais Usadas" height="180" />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>Tools
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,azure,docker"/>
+</p>---
 
-## 🧠 Análises Técnicas & Visão de Futuro
+GitHub Analytics
 
-<details>
-<summary><b>🔍 Análise de Perfil Técnico</b></summary>
-<br>
+<p align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=ItaloNicacioDev&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloNicacioDev&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/></p><p align="center"><img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloNicacioDev&theme=tokyonight&hide_border=true"/><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItaloNicacioDev&theme=tokyonight"/></p>---
 
-* **Forte base lógica:** Início precoce na programação trouxe facilidade com algoritmos complexos.
-* **Evolução orientada à arquitetura:** Foco constante em Clean Code, DDD e padrões de projeto.
-* **Perfil híbrido:** Facilidade em transitar entre os desafios técnicos do código e a visão estratégica do produto.
-</details>
+Contribution Graph
 
-<details>
-<summary><b>🚀 Análise de Potencial SaaS</b></summary>
-<br>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloNicacioDev&theme=tokyo-night&hide_border=true"/></p>---
 
-* **Foco em Ativos Digitais:** Mentalidade voltada para a criação de soluções replicáveis e monetizáveis.
-* **Escalabilidade Prática:** Arquitetura pensada para suportar crescimento de usuários sem gargalos de infraestrutura.
-* **Evolução Natural:** Trajetória consistente para atuar como *Founder Tech* ou *CTO*.
-</details>
+Metrics
 
-<details>
-<summary><b>📈 Próximo Nível Estratégico (Pleno ➡️ Sênior / Founder)</b></summary>
-<br>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItaloNicacioDev&theme=tokyonight"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItaloNicacioDev&theme=tokyonight"/></p><p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItaloNicacioDev&theme=tokyonight"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ItaloNicacioDev&theme=tokyonight&utcOffset=-3"/></p>---
 
-* 🟩 **Projetos Autônomos:** Validar ideias no mercado com usuários reais.
-* 🟩 **Build in Public:** Documentar publicamente decisões de arquitetura e desafios de engenharia.
-* 🟩 **Consolidação Core:** Especialização profunda no ecossistema de backend de alta performance.
-</details>
+Featured Projects
+
+- SaaS Applications
+- Backend APIs
+- Open Source Projects
+- Desktop Applications
+- Automation Tools
 
 ---
 
-## 🎥 Criador Tech
+Currently Learning
 
-Utilizo minha experiência para agregar valor à comunidade, compartilhando insights sobre:
-* 🏛 Arquitetura e boas práticas de engenharia
-* 💼 Evolução e transição de carreira na área de tecnologia
-* 🔧 Ferramentas modernas e produtividade do ecossistema dev
-* 🚀 Estratégias reais para a construção de SaaS
-
----
-
-## 💬 Manifesto
-
-> 💻 **Código** é ferramenta.  
-> 🏛 **Arquitetura** é estratégia.  
-> 📦 **Produto** é impacto.
+- Distributed Systems
+- Cloud Architecture
+- High Performance APIs
+- Software Design Patterns
 
 ---
 
-<div align="center">
-  <b>⚡ Dev em evolução constante para Founder Tech.</b>
+<div align="center">"Code is temporary. Good architecture scales."
+
 </div>
