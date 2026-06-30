@@ -6,7 +6,6 @@ Building scalable applications with a focus on clean architecture, backend devel
 
 ""GitHub" (https://img.shields.io/badge/GitHub-ItaloNicacioDev-181717?style=for-the-badge&logo=github)" (https://github.com/ItaloNicacioDev)
 ""LinkedIn" (https://img.shields.io/badge/LinkedIn-Italo%20Nicacio-0A66C2?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/italo-nicacio)
-""Email" (https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:eufrasio.nicacio@gmail.com)
 
 </div>---
 
