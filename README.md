@@ -119,6 +119,6 @@ I started programming at 16 with Small Basic and today I work mainly with .NET, 
 
 <div align="center">
 
-*"Code is temporary. Good architecture scales."*
+
 
 </div>
