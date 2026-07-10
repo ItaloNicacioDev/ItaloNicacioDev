@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Italo Nicacio 
+# Hi there, I'm Italo Nicacio 👋
 
 ### Full Stack Developer • Backend • Software Architecture
 
@@ -33,26 +33,26 @@ I started programming at 16 with Small Basic and today I work mainly with .NET, 
 
 **Languages**
 
-<p><img src="https://skillicons.dev/icons?i=cs,python,js,ts"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=cs,python,js,ts"/></p>
 
 **Backend**
 
-<p><img src="https://skillicons.dev/icons?i=dotnet,django,nodejs"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,django,nodejs"/></p>
 
 **Frontend**
 
-<p><img src="https://skillicons.dev/icons?i=react,html,css"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,html,css"/></p>
 
 **Database**
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 **Tools**
 
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,azure,docker"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,azure,docker"/></p>
 
 ---
 
@@ -70,7 +70,7 @@ I started programming at 16 with Small Basic and today I work mainly with .NET, 
 -->
 
 <p align="center">
-<img height="180" src="https://streak-stats.demolab.com?user=ItaloNicacioDev&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats-eight.vercel.app?user=ItaloNicacioDev&theme=tokyonight&hide_border=true"/>
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItaloNicacioDev&theme=tokyonight"/>
 </p>
 
@@ -119,6 +119,6 @@ I started programming at 16 with Small Basic and today I work mainly with .NET, 
 
 <div align="center">
 
-
+*"Code is temporary. Good architecture scales."*
 
 </div>
