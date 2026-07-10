@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Italo Nicacio 👋
+# Hi there, I'm Italo Nicacio 
 
 ### Full Stack Developer • Backend • Software Architecture
 
